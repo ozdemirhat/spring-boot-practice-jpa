@@ -1,4 +1,4 @@
-package com.trendyol.springbootpracticejpa;
+package com.trendyol;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
